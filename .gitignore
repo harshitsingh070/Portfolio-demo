@@ -28,5 +28,3 @@ dist-ssr
 src/components/About.jsx
 src/components/Contact.jsx
 src/components/Projects.jsx
-src/components/Skills.jsx
-src/components/Timeline.jsx
